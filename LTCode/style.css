@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #222831;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  padding: 15px;
+}
+
+.row {
+  width: 100%;
+}
+
+.content h2 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.content {
+  width: 24%;
+  box-sizing: border-box;
+  display: inline-block;
+  border: 2px #393e46 solid;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+img {
+  width: 64px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a#bc {
+  font-family: "Open Sans", sans-serif;
+}
